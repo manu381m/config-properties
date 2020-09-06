@@ -1,4 +1,4 @@
 server:
   port: 8181
   
-msg: Hai I'm from development profile.
+msg: Hai Manoj, I'm from development profile.
